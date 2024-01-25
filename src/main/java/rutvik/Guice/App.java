@@ -4,7 +4,7 @@ import com.google.inject.Guice;
 import com.google.inject.Injector;
 
 /**
- * Hello world!
+ * injection impl
  *
  */
 public class App 
